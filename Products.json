@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Apple iPhone X1",
+        "price": 999,
+        "description": "Premium smartphone with pro-level camera.\nFast performance with A-series chip.\nDesigned for productivity and entertainment.",
+        "feature": true,
+        "rating": 4.7,
+        "company": "Apple"
+    },
+    {
+        "name": "Apple iPad Air Pro",
+        "price": 849,
+        "description": "Lightweight tablet with vivid display.\nPowerful chip for multitasking.\nIdeal for students and creators.",
+        "feature": false,
+        "rating": 4.5,
+        "company": "Apple"
+    },
+    {
+        "name": "Apple MacBook Vision",
+        "price": 1799,
+        "description": "Slim laptop with long battery life.\nDesigned for creative professionals.\nSmooth performance for heavy tasks.",
+        "feature": true,
+        "rating": 4.8,
+        "company": "Apple"
+    },
+    {
+        "name": "Apple AirPods Max S",
+        "price": 599,
+        "description": "High-fidelity headphones.\nPremium noise cancellation.\nComfortable for long listening sessions.",
+        "feature": true,
+        "rating": 4.6,
+        "company": "Apple"
+    },
+    {
+        "name": "Apple Watch Ultra 3",
+        "price": 899,
+        "description": "Rugged smartwatch for adventure.\nAdvanced health tracking.\nBright display for outdoor use.",
+        "feature": false,
+        "rating": 4.7,
+        "company": "Apple"
+    },
+    {
+        "name": "Apple HomePod Sphere",
+        "price": 329,
+        "description": "Smart speaker with rich audio.\nSiri support for automation.\nCompact and elegant design.",
+        "feature": true,
+        "rating": 4.3,
+        "company": "Apple"
+    },
+    {
+        "name": "Apple Magic Keyboard Touch",
+        "price": 199,
+        "description": "Keyboard with Touch ID.\nComfortable typing experience.\nDesigned for Mac users.",
+        "feature": false,
+        "rating": 4.4,
+        "company": "Apple"
+    },
+    {
+        "name": "Apple AirTag Pro",
+        "price": 49,
+        "description": "Tracker for personal items.\nLong battery life.\nPrecise location via Find My.",
+        "feature": true,
+        "rating": 4.6,
+        "company": "Apple"
+    },
+    {
+        "name": "Apple TV Stream 8K",
+        "price": 249,
+        "description": "8K streaming performance.\nSupports major apps.\nSmooth and responsive navigation.",
+        "feature": false,
+        "rating": 4.5,
+        "company": "Apple"
+    },
+    {
+        "name": "Apple Pencil Max",
+        "price": 129,
+        "description": "Stylus for note-taking and drawing.\nHighly responsive tip.\nIdeal for iPad workflows.",
+        "feature": true,
+        "rating": 4.6,
+        "company": "Apple"
+    },
+    {
+        "name": "Samsung Galaxy S25",
+        "price": 899,
+        "description": "Flagship phone with vibrant display.\nPowerful processor for gaming.\nHigh-resolution camera setup.",
+        "feature": true,
+        "rating": 4.7,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung Galaxy Tab X",
+        "price": 749,
+        "description": "Large tablet for media.\nMulti-window support.\nSmooth and bright AMOLED display.",
+        "feature": false,
+        "rating": 4.5,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung Galaxy Book Slim",
+        "price": 1199,
+        "description": "Thin and light laptop.\nGreat for portable productivity.\nLong battery life.",
+        "feature": true,
+        "rating": 4.6,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung Galaxy Buds Live Pro",
+        "price": 199,
+        "description": "Wireless earbuds with ANC.\nComfortable ergonomic fit.\nHigh-quality sound tuning.",
+        "feature": false,
+        "rating": 4.4,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung Smart Monitor M9",
+        "price": 549,
+        "description": "4K smart monitor.\nBuilt-in apps and Wi-Fi.\nIdeal for work and streaming.",
+        "feature": true,
+        "rating": 4.5,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung Gear Watch Nova",
+        "price": 349,
+        "description": "Smartwatch with fitness tools.\nBright OLED screen.\nComfortable all-day wear.",
+        "feature": false,
+        "rating": 4.3,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung Air Purifier Plus",
+        "price": 299,
+        "description": "Purifies large rooms.\nHEPA filtration.\nQuiet night mode.",
+        "feature": true,
+        "rating": 4.5,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung Soundbar Ultra 5.1",
+        "price": 499,
+        "description": "Immersive home audio.\nWireless subwoofer.\nSupports Dolby technologies.",
+        "feature": true,
+        "rating": 4.6,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung Portable SSD Max",
+        "price": 189,
+        "description": "Fast portable storage.\nShock-resistant body.\nUSB-C compatibility.",
+        "feature": false,
+        "rating": 4.7,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung QLED TV 55QX",
+        "price": 1299,
+        "description": "55-inch QLED TV.\nSharp images and deep contrast.\nGreat for movies and gaming.",
+        "feature": true,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Microsoft Surface Pro 10",
+        "price": 1199,
+        "description": "2-in-1 performance device.\nDetachable keyboard support.\nIdeal for professionals.",
+        "feature": true,
+        "rating": 4.6,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Microsoft Surface Laptop Ultra",
+        "price": 1499,
+        "description": "Premium thin laptop.\nSmooth multitasking.\nBright touchscreen display.",
+        "feature": false,
+        "rating": 4.7,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Microsoft Xbox One Z",
+        "price": 499,
+        "description": "Next-gen gaming console.\nFast load times.\nLarge game library support.",
+        "feature": true,
+        "rating": 4.8,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Microsoft Surface Earbuds Pro",
+        "price": 249,
+        "description": "Wireless earbuds for work.\nGesture-based controls.\nComfortable all-day wear.",
+        "feature": false,
+        "rating": 4.4,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Microsoft Bluetooth Keyboard Slim",
+        "price": 79,
+        "description": "Portable slim keyboard.\nQuiet key mechanics.\nGood for travel.",
+        "feature": true,
+        "rating": 4.3,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Microsoft Modern Webcam HD",
+        "price": 129,
+        "description": "HD video calling.\nAuto light adjustment.\nWorks with Teams and Zoom.",
+        "feature": true,
+        "rating": 4.5,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Microsoft Designer Mouse 2",
+        "price": 49,
+        "description": "Ergonomic wireless mouse.\nSmooth tracking.\nLightweight and portable.",
+        "feature": false,
+        "rating": 4.4,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Microsoft Surface Dock Ultimate",
+        "price": 259,
+        "description": "Dock for Surface devices.\nMultiple ports.\nBoosts productivity.",
+        "feature": true,
+        "rating": 4.6,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Microsoft HoloLens Lite",
+        "price": 2999,
+        "description": "AR headset for immersive apps.\nLightweight design.\nHigh-resolution display.",
+        "feature": true,
+        "rating": 4.7,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Microsoft Adaptive Controller Pro",
+        "price": 129,
+        "description": "Accessible gaming controller.\nHighly customizable.\nDesigned for inclusion.",
+        "feature": false,
+        "rating": 4.5,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Extreme",
+        "price": 1699,
+        "description": "High-end business laptop.\nDurable carbon fiber design.\nExcellent performance.",
+        "feature": true,
+        "rating": 4.7,
+        "company": "Lenovo"
+    },
+    {
+        "name": "Lenovo Yoga Flex 9",
+        "price": 1299,
+        "description": "2-in-1 convertible laptop.\nTouch and pen support.\nGreat for creators.",
+        "feature": false,
+        "rating": 4.6,
+        "company": "Lenovo"
+    },
+    {
+        "name": "Lenovo Legion Gaming Pro",
+        "price": 1499,
+        "description": "Gaming laptop with RGB.\nHigh FPS performance.\nAdvanced cooling system.",
+        "feature": true,
+        "rating": 4.8,
+        "company": "Lenovo"
+    },
+    {
+        "name": "Lenovo Tab Max 12",
+        "price": 399,
+        "description": "Large screen tablet.\nGood battery life.\nIdeal for streaming.",
+        "feature": false,
+        "rating": 4.4,
+        "company": "Lenovo"
+    },
+    {
+        "name": "Lenovo Smart Clock Vision",
+        "price": 89,
+        "description": "Smart clock with display.\nVoice assistant included.\nPerfect bedside companion.",
+        "feature": true,
+        "rating": 4.3,
+        "company": "Lenovo"
+    },
+    {
+        "name": "Lenovo ThinkVision Monitor P27",
+        "price": 299,
+        "description": "Professional-grade monitor.\nSharp and clear visuals.\nIdeal for designers.",
+        "feature": true,
+        "rating": 4.5,
+        "company": "Lenovo"
+    },
+    {
+        "name": "Lenovo Wireless Keyboard K9",
+        "price": 59,
+        "description": "Silent keys keyboard.\nLightweight design.\nPerfect for office use.",
+        "feature": false,
+        "rating": 4.2,
+        "company": "Lenovo"
+    },
+    {
+        "name": "Lenovo Portable SSD Go",
+        "price": 129,
+        "description": "Portable solid-state drive.\nFast transfer speeds.\nPocket-friendly.",
+        "feature": true,
+        "rating": 4.6,
+        "company": "Lenovo"
+    },
+    {
+        "name": "Lenovo IdeaPad Ultra 7",
+        "price": 1099,
+        "description": "Lightweight everyday laptop.\nStrong performance.\nIdeal for students.",
+        "feature": false,
+        "rating": 4.5,
+        "company": "Lenovo"
+    },
+    {
+        "name": "Lenovo Gaming Mouse GX",
+        "price": 45,
+        "description": "RGB gaming mouse.\nAdjustable DPI.\nErgonomic design.",
+        "feature": true,
+        "rating": 4.4,
+        "company": "Lenovo"
+    }
+]
